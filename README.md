@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bidrohi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Bidrohi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bidrohi/) |
+| **Get License** | [License this song: Bidrohi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bidrohi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `886d42dd12c29e9071768bccb0989909f4a28d911172b7f715d48df067a3adab` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
