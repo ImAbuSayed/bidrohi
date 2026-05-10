@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bidrohi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Bidrohi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bidrohi/) |
+| **Get License** | [Get License For Bidrohi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bidrohi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit f3acd70a4771d87f5986b0878ef1413f9b4d59c4
+> অচেনা এক আঁধারে খুঁজি তোমার আলো
+> অবুঝ এ বুকে শুধু তোমায় বেসেছি ভালো
+> হারিয়ে যাওয়ার নেশায় কাঁদে এই মন
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
